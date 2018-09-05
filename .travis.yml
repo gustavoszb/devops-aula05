@@ -4,5 +4,5 @@ python:
  
 script:
 
-  -cd src; python testes.py
+  -cd src; python teste.py
   
